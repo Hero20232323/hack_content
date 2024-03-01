@@ -264,3 +264,18 @@ text-align: left;
 	text-decoration: None;
 	color: inherit;
 }
+.many__video{
+	display: flex;
+	list-style: None;
+/*	gap: 50px;*/
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.many__video__1{
+	width: 1000px;
+	margin-bottom: 114px;
+}
+.many__video__main{
+	background-color: #2545B5;
+}
+
